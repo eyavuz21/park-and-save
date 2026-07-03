@@ -2,6 +2,8 @@
 
 **Your AI errand copilot — find the cheapest, quickest parking and the nearest shops, all in one trip.**
 
+**🔴 Live demo: <https://parkandsave-agent.vercel.app>**
+
 Built for the **Generative UI Hackathon** (CopilotKit track). You chat with an AI
 agent that searches the real world live and **generates its own UI** — interactive
 cards — instead of replying with walls of text.
