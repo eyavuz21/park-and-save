@@ -10,7 +10,7 @@ Built for the **Generative UI Hackathon** (CopilotKit track). You chat with an A
 agent that searches the real world live and **generates its own UI** (interactive
 cards) instead of replying with walls of text.
 
-It merges two ideas: [**SpatialCart**](https://spatialcart.up.railway.app/) (find the
+It merges two ideas: [**SpatialCart**](https://eyavuz21.github.io/SpatialCart/) (find the
 cheapest shopping route across nearby supermarkets) and a friend's **cheap-parking**
 idea, into a single "plan my errand trip" assistant.
 
